@@ -1,0 +1,29 @@
+.flex {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  /* justify-content: space-between; */
+  align-items: stretch;
+}
+
+.flex-column {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  /* justify-content: space-between; */
+  align-items: stretch;
+  align-items: flex-start;
+  align-content: flex-start;
+}
+
+.flex-item {
+  flex-basis: 30rem;
+}
+label {
+  display: block;
+}
+input {
+  /* padding: 5rem; */
+  height: 2rem;
+  width: 40rem;
+}
