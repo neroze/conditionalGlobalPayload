@@ -13,7 +13,7 @@
     "axios": "^1.6.0",
     "mobx": "^6.7.0",
     "mobx-react-lite": "^3.4.0",
-    "mobx-state-tree": "^5.1.6",
+    "mobx-state-tree": "^5.1.8",
     "preact": "^10.11.2"
   },
   "devDependencies": {
