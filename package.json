@@ -14,7 +14,7 @@
     "mobx": "^6.7.0",
     "mobx-react-lite": "^3.4.0",
     "mobx-state-tree": "^5.1.6",
-    "preact": "^10.11.2"
+    "preact": "^10.15.1"
   },
   "devDependencies": {
     "@preact/preset-vite": "^2.4.0",
